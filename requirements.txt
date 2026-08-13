@@ -1,0 +1,14 @@
+--index-url https://download.pytorch.org/whl/cu128
+--extra-index-url https://pypi.org/simple
+
+torch==2.9.0+cu128
+torchvision==0.24.0+cu128
+
+transformers
+numpy
+opencv-python
+Pillow
+pycocotools
+tqdm
+timm
+scipy
